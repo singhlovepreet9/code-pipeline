@@ -1,4 +1,4 @@
-backend/node_modules
-backend/.webpack
-backend/.build
+backend-sls/node_modules
+backend-sls/.webpack
+backend-sls/.build
 frontend/node_modules
